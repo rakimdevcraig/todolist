@@ -34,7 +34,7 @@ $(document).ready(function(){
   }
   // Ability to clear entire list
   $('#all').on('click',function(){
-    $('li').empty();
+    $('ul').empty();
     count = $('ul li').length
     toDoCount()
   });
