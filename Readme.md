@@ -3,7 +3,7 @@ My Todo list
 This is my personal To Do list that allows you to clear the entire list, mark items as completed, clear the completed items while still keeping the items up that need to be completed and even edit the spelling of a task if you spelled it incorrectly.
 
 ![todo](css/img/readme.jpg)
-link to project:
+link to project: https://rakimdevcraig.github.io/todolist/
 
 
 How it's made:
